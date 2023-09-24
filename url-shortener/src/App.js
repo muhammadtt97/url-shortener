@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ShortenerForm from './ShortenerForm';
+import ShortenerForm from './components/ShortenerForm';
 
 function App() {
   return (
